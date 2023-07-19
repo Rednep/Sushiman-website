@@ -1,4 +1,4 @@
-# Sushiman Sushi Ordering Web Application 🍣
+# Sushiman Sushi Ordering Landing Page 🍣
 
 Welcome to the repository for the Sushiman project, an appetizing online solution crafted to deliver a delightful sushi ordering experience through a beautifully designed landing page.
 
